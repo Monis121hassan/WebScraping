@@ -78,3 +78,4 @@ df.to_csv(r"C:\Users\Acer\Documents\WebScraping\reviews.csv", index=True)
 print(df)
 
 page.close()
+
